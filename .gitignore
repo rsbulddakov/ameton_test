@@ -1,0 +1,32 @@
+# Игнор-лист файлов проекта
+#
+#Типы файлов
+*.log
+*.xml
+*.txt
+*.bak
+*.old
+*.html
+*.gz
+*.gz.??
+*.tar
+*.tmp*
+*.swf
+*.swp
+*.csv
+*.restore
+*.DS_Store
+
+#
+#Файлы
+#
+.htaccess
+.place-owner
+.idea
+
+#
+#Папки
+#
+/bitrix
+/upload
+
