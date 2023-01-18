@@ -29,7 +29,7 @@
 		"CACHE_FILTER" => "N",
 		"CACHE_GROUPS" => "Y",
 		"SET_LAST_MODIFIED" => "N",
-		"SET_TITLE" => "Y",
+		"SET_TITLE" => "N",
 		"INCLUDE_IBLOCK_INTO_CHAIN" => "Y",
 		"ADD_SECTIONS_CHAIN" => "Y",
 		"ADD_ELEMENT_CHAIN" => "N",
